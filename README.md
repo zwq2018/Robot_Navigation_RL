@@ -33,7 +33,6 @@ A Reasoning and VAE framework for robot navigation in complex and dynamic enviro
 
 [![arxiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2111.08364)  [![YouTube](https://img.shields.io/badge/YouTube-Video-FF0000.svg)](https://www.youtube.com/watch?v=lAnW4QIWDoU) [![Bilibili](https://img.shields.io/badge/Bilibili-Video-00A1D6.svg)](https://www.bilibili.com/video/BV1E64y1z7vJ/?spm_id_from=333.999.0.0&vd_source=818fc4816fcb6a1d8c82455cd7851b48) 
 
-https://www.bilibili.com/video/BV1E64y1z7vJ/?spm_id_from=333.999.0.0
 
 A MOE learning framework for quadruped robot mapping and navigation
 > Learning to Navigate in a VUCA Environment: Hierarchical Multi-expert Approach
