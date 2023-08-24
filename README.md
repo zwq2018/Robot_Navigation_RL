@@ -3,11 +3,11 @@
 A MOE and VAE reasoning frameworks for robot navigation in complex and dynamic environments. 
 For more details, please refer to our papers.
 
-2022 JICAI  AND 2021 IROS
-> **A Closed-Loop Perception, Decision-Making and Reasoning Mechanism for Human-Like Navigation**
+2022 IJCAI  and  2021 IROS
+> **A Closed-Loop Perception, Decision-Making and Reasoning Mechanism for Human-Like Navigation** (IJCAI22)
 
 
-> **Learning to Navigate in a VUCA Environment: Hierarchical Multi-expert Approach**
+> **Learning to Navigate in a VUCA Environment: Hierarchical Multi-expert Approach**  (IROS21)
 
 
 ## 2022 IJCAI 
