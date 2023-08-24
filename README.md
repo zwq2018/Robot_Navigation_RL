@@ -1,7 +1,9 @@
 # Robot Navigation using Reinforcement learning and Reasoning
 
 A Reasoning and VAE framework for robot navigation in complex and dynamic environment
-## 2022 IJCAI [![arxiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://www.ijcai.org/proceedings/2022/0654.pdf)[![YouTube](https://img.shields.io/badge/YouTube-Video-FF0000.svg)](https://youtu.be/jD_7sCdMMWk)
+## 2022 IJCAI 
+
+[![arxiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://www.ijcai.org/proceedings/2022/0654.pdf)[![YouTube](https://img.shields.io/badge/YouTube-Video-FF0000.svg)](https://youtu.be/jD_7sCdMMWk)
 
 
 A Reasoning and VAE framework for robot navigation in complex and dynamic environment
@@ -11,12 +13,16 @@ A Reasoning and VAE framework for robot navigation in complex and dynamic enviro
 **Video of real-robot experiments are shown at https://youtu.be/jD_7sCdMMWk**
 
 
+<img width="770" alt="Xnip2023-08-25_02-34-47" src="https://github.com/zwq2018/CL_PDR_NAV/assets/44236100/6b8e838e-951c-4c87-a9b0-16ea56542f63">
+<img width="770" alt="Xnip2023-08-25_02-35-01" src="https://github.com/zwq2018/CL_PDR_NAV/assets/44236100/25da72f3-2296-4f94-bbb9-bcd35bb8e07c">
+<img width="770" alt="Xnip2023-08-25_02-35-11" src="https://github.com/zwq2018/CL_PDR_NAV/assets/44236100/724e0584-5162-4c4c-bc15-67a0346d172d">
+<img width="770" alt="Xnip2023-08-25_02-35-42" src="https://github.com/zwq2018/CL_PDR_NAV/assets/44236100/123e8183-8d23-4f74-bb62-7c176a40a4a8">
 
 
 
+## 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 
 
-
-## 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) [![arxiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2111.08364)  [![YouTube](https://img.shields.io/badge/YouTube-Video-FF0000.svg)](https://www.youtube.com/watch?v=lAnW4QIWDoU)
+[![arxiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2111.08364)  [![YouTube](https://img.shields.io/badge/YouTube-Video-FF0000.svg)](https://www.youtube.com/watch?v=lAnW4QIWDoU)
 
 A MOE learning framework for robot navigation
 > Learning to Navigate in a VUCA Environment: Hierarchical Multi-expert Approach
