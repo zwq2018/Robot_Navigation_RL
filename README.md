@@ -1,6 +1,12 @@
 # Robot Navigation using Reinforcement learning and Reasoning
 
-A MOE and VAE reasoning framework for robot navigation in complex and dynamic environment. More details can refer to our paper.
+A MOE and VAE reasoning frameworks for robot navigation in complex and dynamic environments. 
+For more details, please refer to our papers.
+
+2022 JICAI  AND 2021 IROS
+> **A Closed-Loop Perception, Decision-Making and Reasoning Mechanism for Human-Like Navigation**
+> **Learning to Navigate in a VUCA Environment: Hierarchical Multi-expert Approach**
+
 
 ## 2022 IJCAI 
 
