@@ -1,6 +1,7 @@
 # Robot Navigation using Reinforcement learning and Reasoning
 
-## 2022 IJCAI 
+A Reasoning and VAE framework for robot navigation in complex and dynamic environment
+## 2022 IJCAI [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://www.ijcai.org/proceedings/2022/0654.pdf)
 
 A Reasoning and VAE framework for robot navigation in complex and dynamic environment
 
