@@ -12,7 +12,8 @@ For more details, please refer to our papers.
 
 ## 2022 IJCAI 
 
-[![arxiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://www.ijcai.org/proceedings/2022/0654.pdf)[![YouTube](https://img.shields.io/badge/YouTube-Video-FF0000.svg)](https://youtu.be/jD_7sCdMMWk)
+[![arxiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://www.ijcai.org/proceedings/2022/0654.pdf)[![YouTube](https://img.shields.io/badge/YouTube-Video-FF0000.svg)](https://youtu.be/jD_7sCdMMWk) [![Bilibili](https://img.shields.io/badge/Bilibili-Video-00A1D6.svg)](https://www.bilibili.com/video/BV13L411H7zr/?spm_id_from=333.788.recommend_more_video.-1&vd_source=818fc4816fcb6a1d8c82455cd7851b48) 
+
 
 
 A Reasoning and VAE framework for robot navigation in complex and dynamic environment
