@@ -1,7 +1,7 @@
 # Robot Navigation using Reinforcement learning and Reasoning
 
 A Reasoning and VAE framework for robot navigation in complex and dynamic environment
-## 2022 IJCAI [![arxiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://www.ijcai.org/proceedings/2022/0654.pdf)[![YouTube](https://img.shields.io/badge/YouTube-Video-FF0000.svg)](https://www.ijcai.org/proceedings/2022/0654.pdf)
+## 2022 IJCAI [![arxiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://www.ijcai.org/proceedings/2022/0654.pdf)[![YouTube](https://img.shields.io/badge/YouTube-Video-FF0000.svg)](https://youtu.be/jD_7sCdMMWk)
 
 
 A Reasoning and VAE framework for robot navigation in complex and dynamic environment
@@ -16,7 +16,7 @@ A Reasoning and VAE framework for robot navigation in complex and dynamic enviro
 
 
 
-## 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 
+## 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) [![arxiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2111.08364)  [![YouTube](https://img.shields.io/badge/YouTube-Video-FF0000.svg)](https://www.youtube.com/watch?v=lAnW4QIWDoU)
 
 A MOE learning framework for robot navigation
 > Learning to Navigate in a VUCA Environment: Hierarchical Multi-expert Approach
