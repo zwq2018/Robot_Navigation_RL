@@ -28,6 +28,22 @@ A Reasoning and VAE framework for robot navigation in complex and dynamic enviro
 <img width="600" alt="Xnip2023-08-25_02-35-11" src="https://github.com/zwq2018/CL_PDR_NAV/assets/44236100/724e0584-5162-4c4c-bc15-67a0346d172d">
 <img width="600" alt="Xnip2023-08-25_02-35-42" src="https://github.com/zwq2018/CL_PDR_NAV/assets/44236100/123e8183-8d23-4f74-bb62-7c176a40a4a8">
 
+```
+@inproceedings{ijcai2022p654,
+  title     = {A Closed-Loop Perception, Decision-Making and Reasoning Mechanism for Human-Like Navigation},
+  author    = {Zhang, Wenqi and Zhao, Kai and Li, Peng and Zhu, Xiao and Shen, Yongliang and Ma, Yanna and Chen, Yingfeng and Lu, Weiming},
+  booktitle = {Proceedings of the Thirty-First International Joint Conference on
+               Artificial Intelligence, {IJCAI-22}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {Lud De Raedt},
+  pages     = {4717--4724},
+  year      = {2022},
+  month     = {7},
+  note      = {Main Track},
+  doi       = {10.24963/ijcai.2022/654},
+  url       = {https://doi.org/10.24963/ijcai.2022/654},
+}
+```
 
 
 ## 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 
@@ -46,3 +62,14 @@ A MOE learning framework for quadruped robot mapping and navigation
 <img width="600" alt="Xnip2023-08-25_02-23-11" src="https://github.com/zwq2018/CL_PDR_NAV/assets/44236100/e85b4c05-f562-4163-a40f-933bf0cd4db3">
 <img width="600" alt="Xnip2023-08-25_02-23-27" src="https://github.com/zwq2018/CL_PDR_NAV/assets/44236100/2552a944-d633-4f99-9543-c7ca71956ed1">
 <img width="600" alt="Xnip2023-08-25_02-23-46" src="https://github.com/zwq2018/CL_PDR_NAV/assets/44236100/09c38533-5d77-4262-868d-6447360ed858">
+
+```
+@article{Zhang2021LearningTN,
+  title={Learning to Navigate in a VUCA Environment: Hierarchical Multi-expert Approach},
+  author={Wenqi Zhang and Kai Zhao and Peng Li and Xiaochun Zhu and Faping Ye and Wei Jiang and Huiqiao Fu and Tao Wang},
+  journal={2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  year={2021},
+  pages={9254-9261},
+  url={https://api.semanticscholar.org/CorpusID:244130381}
+}
+```
